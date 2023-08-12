@@ -14,7 +14,7 @@ This is a simple network packet sniffer implemented in C using raw sockets. It c
    ```
 2. Compile the code:
    ```bash
-   cd Sockets
+   cd C/Sockets
    gcc sniffer.c -o sniffer
    ```
 3. Run the program:
