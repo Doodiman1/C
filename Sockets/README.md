@@ -13,10 +13,10 @@ This is a simple network packet sniffer implemented in C using raw sockets. It c
    git clone https://github.com/Doodiman1/C.git
    ```
 2. Compile the code:
-  ```bash
+   ```bash
    cd Sockets
    gcc sniffer.c -o sniffer
-  ```
+   ```
 3. Run the program:
    ```bash
    sudo ./sniffer
